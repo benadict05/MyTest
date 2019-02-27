@@ -12,6 +12,6 @@ namespace WpfApp1
         public string Name { get; set; }
         public DateTime DOB { get; set; }
        // public string BookTitle { get; set; }
-        //public bool IsMVP { get; set; }
+        public bool IsMVP { get; set; }
     }
 }
